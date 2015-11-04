@@ -17,6 +17,7 @@ html, body {
   margin: 0px;
 	line-height: 120px;
 	text-align: center;
+	padding-left: 20px;
 }
 
 .nav ul {
